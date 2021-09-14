@@ -24,4 +24,7 @@ Développer une logique de jeu en PHP en mettant en oeuvre de la conception obje
 
 Jeu en mode console. Un début d’implémentation est proposé (play-console.php à lancer dans une console)
 <h1>Challenge 1</h1>
-Je n'est pas rencontrer de probleme durant ce challenge car rien de bien compliquer etait demander :smile:
+Je n'ai pas rencontré de problème durant ce challenge car rien de bien compliquer était demander  :smile:
+<h1>Challenge 2</h1>
+Pour le challenge 2 notre defis etait de supprimer les 4 erreurs qui etait dans le dossier CardTest
+[](image/image guesswhat-phpstorm.png
